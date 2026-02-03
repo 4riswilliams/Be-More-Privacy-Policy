@@ -1,5 +1,3 @@
-# Be-More-Privacy-Policy
-Privacy policy for a Baltimore Trivia App
 # Be More – Privacy Policy
 
 This Privacy Policy describes how **Be More** (“we,” “our,” or “the app”) collects, uses, and protects information when you use the Be More mobile application.
