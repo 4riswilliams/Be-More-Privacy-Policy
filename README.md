@@ -14,33 +14,48 @@ Be More is a mobile trivia application focused on Baltimore culture, history, an
 
 ## 2. Information We Collect
 
-### 2.1 Information You Provide
-Be More may collect the following information if you voluntarily provide it:
-- Display name or username
-- Email address (for account-related features or support inquiries)
+### 2.1 Account Information (Usernames and Passwords)
 
-Providing this information is optional unless required for specific app features.
+If you create an account, Be More stores:
+
+- Username or display name  
+- Account credentials, including a password
+
+Passwords are **encrypted and securely stored** using industry-standard authentication practices and are **not stored in plain text**. Account credentials are used solely to authenticate users and maintain account functionality.
 
 ---
 
-### 2.2 Automatically Collected Information
+### 2.2 Information You Provide
+
+You may optionally provide:
+- Email address (for account recovery or support inquiries)
+
+Providing this information is voluntary unless required for specific features.
+
+---
+
+### 2.3 Automatically Collected Information
+
 When you use Be More, certain information may be collected automatically, including:
+
 - Device type, operating system, and app version
 - Anonymous device identifiers (e.g., advertising ID)
 - App usage data such as session duration, feature interactions, and crash logs
 
-This information is collected in aggregated or anonymized form whenever possible.
+Whenever possible, this information is collected in aggregated or anonymized form.
 
 ---
 
 ## 3. How We Use Information
 
-Collected information is used solely to:
+Information collected is used solely to:
+
+- Authenticate users and manage accounts
 - Operate and maintain app functionality
 - Improve performance, stability, and user experience
-- Enable app features such as leaderboards or gameplay tracking
-- Analyze usage trends and engagement
-- Support advertising and donation-related analytics
+- Enable gameplay features such as leaderboards
+- Analyze engagement and app usage trends
+- Support advertising and philanthropic donation tracking
 
 We do **not** sell, rent, or trade personal information.
 
@@ -49,12 +64,13 @@ We do **not** sell, rent, or trade personal information.
 ## 4. Third-Party Services
 
 Be More may use third-party services for:
+
 - Analytics
 - Advertising
 - Crash reporting
 - Payment or donation processing
 
-These third parties may collect information as governed by their own privacy policies. Be More does not control how third-party services use collected data and encourages users to review their respective privacy policies.
+These third parties may collect information under their own privacy policies. We encourage users to review those policies separately.
 
 ---
 
@@ -67,33 +83,29 @@ No personal user data is shared with philanthropic partners.
 
 ## 6. Data Retention
 
-User information is retained only for as long as necessary to:
-- Provide app functionality
-- Comply with legal obligations
-- Resolve disputes
-- Enforce policies
+Account information, including usernames and encrypted passwords, is retained only as long as necessary to provide services, comply with legal obligations, resolve disputes, and enforce policies.
 
-Users may request deletion of their personal data by contacting us.
+Users may request deletion of their account and associated data by contacting us.
 
 ---
 
 ## 7. Data Security
 
-We implement reasonable administrative and technical safeguards to protect user information.  
-However, no method of electronic transmission or storage is completely secure, and absolute security cannot be guaranteed.
+We implement reasonable administrative, technical, and organizational safeguards designed to protect user information from unauthorized access, alteration, disclosure, or destruction. However, no method of electronic storage or transmission is completely secure.
 
 ---
 
 ## 8. Children’s Privacy
 
 Be More is not directed toward children under the age of 13.  
-We do not knowingly collect personal information from children under 13. If such information is discovered, it will be deleted promptly.
+We do not knowingly collect personal information from children under 13. If such information is identified, it will be deleted promptly.
 
 ---
 
 ## 9. User Rights
 
 Depending on your jurisdiction, you may have the right to:
+
 - Access personal information we hold
 - Request correction or deletion of personal information
 - Opt out of certain data collection where applicable
@@ -112,9 +124,9 @@ This Privacy Policy may be updated periodically. Any changes will be posted in t
 
 ## 11. Contact Information
 
-If you have questions or concerns regarding this Privacy Policy, please contact us:
+If you have any questions or concerns regarding this Privacy Policy:
 
-📧 **Email:** support@bemorebmore.org
+📧 support@bemorebmore.org
 
 ---
 
